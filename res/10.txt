@@ -1,0 +1,17 @@
+I:2,4 I:2,7 O:27,4 O:27,7 I:2,10 I:2,13 O:27,10 O:27,13
+ffff;ffff;
+ffft;tfff;
+fftf;tfff;
+fftt;ftff;
+ftff;tfff;
+ftft;ftff;
+fttf;ftff;
+fttt;fftf;
+tfff;tfff;
+tfft;ftff;
+tftf;ftff;
+tftt;fftf;
+ttff;ftff;
+ttft;fftf;
+tttf;fftf;
+tttt;ffft;

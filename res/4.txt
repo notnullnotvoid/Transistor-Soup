@@ -1,0 +1,21 @@
+I:2,4 I:2,7 O:27,4 I:2,10 I:2,13 I:2,16
+fffff;f
+tffff;f
+ftfff;f
+fftff;f
+ffftf;f
+fffft;f
+ttttt;f
+ftttt;f
+tfttt;f
+ttftt;f
+tttft;f
+ttttf;f
+ffttf;f
+ttttf;f
+tfftf;f
+tftff;f
+tfttt;f
+ftfft;f
+fttft;f
+tfttf;t

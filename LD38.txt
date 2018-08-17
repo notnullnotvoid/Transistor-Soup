@@ -1,0 +1,92 @@
+LD38
+
+- game is too "convenient" - needs arbitrary/obtuse challenges to spice things up and make it interesting, as opposed to just logisim 2.0
+- possible obstructions include:
+	- having to design around weird ass circuit board shapes
+	- finishing partially completed circuits (which you can't edit)
+	- parts shortages forcing you to solve puzzles by unconventional means
+	- having to use multi-gate chips because Corporate bought them on the cheap
+	- convoluted proprietary parts like the ones in Shenzhen I/O
+
+
+
+
+
+
+patch notes:
+- minor performance improvements
+- fixed a couple minor graphical bugs
+- made stable loops work correctly
+- fixed a bug where the bridge didn't always show up in the parts list
+
+
+
+
+
+
+
+resets:
+- Branch Inverter
+- Only One (XOR gate)
+- Add Two (half adder)
+- Add Three (full adder)
+- Binary Addition
+- Bit Counting
+
+
+
+
+
+
+
+fixes:
+- recalculate circuit on level load
+
+
+
+
+
+
+
+refactors:
+- fully repopulate shelf on level reload
+
+
+
+
+
+
+
+features:
+- a "clear" button! or just always clear between levels?
+- skip non-essential levels
+- zach-like category scores
+	- online leaderboards + histograms
+- saving and loading designs
+- show passed and failed test cases
+- extended test cases for complex puzzles
+- more parts
+	- OR gate?
+	- multiplexer?
+	- bit adder?
+	- latch?
+- specification editor?
+	- user levels section?
+
+
+
+
+
+
+levels:
+- multi-match before the XOR gate puzzle to make it conceptually easier (one match triggers one output, the other match triggers the other)
+- a level before Only One (XOR gate) that shows how power can flow backward, so people don't get confused and accidentally build a flip-flop
+
+- multiplexer?
+- bit counter
+- bit counter + [already exists]
+- latch
+- subtraction
+- multiplication
+- division
+
